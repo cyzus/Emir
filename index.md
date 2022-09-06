@@ -1,6 +1,9 @@
 
 # Project: Images of the Russian Empire
+<p align="center">
+
 <img src="out_path/contrasted_emir.jpg" width="200" class="center"/>
+</p>
 
 # Overview
 The project seeks to align the images from RGB channels as each channel was separately taken by the photographer
@@ -30,6 +33,7 @@ After trying to each of r, g, b channels as the base of alignment, I found that 
 ## Automatic cropping
 Since the provided images have similar boundaries, I make a fixed-ratio cropping (crop 20% out) and that has already shown great enough results.
 Below are comparisons of images with and without automatic cropping
+<p align="center">
 
 <img src="out_path/cropped_cathedral.jpg" width="200"/>
 <img src="out_path/align_cathedral.jpg" width="200"/>
@@ -39,6 +43,7 @@ Below are comparisons of images with and without automatic cropping
 
 <img src="out_path/cropped_melons.jpg" width="200"/>
 <img src="out_path/align_melons.jpg" width="200"/>
+</p>
 
 ## Automatic contrast
 To make automatic contrast, I make use of the idea of Histogram Equalization
@@ -46,6 +51,7 @@ Basically, it adjusts the pixel values to enhance the contrast by making the int
 A typical image often has a histogram that follows a Gaussian distribution, but we want the histogram to be more uniformly distributed.
 
 Here images on the left are automatically cropped and contrasted; images on the right are only automatically cropped
+<p align="center">
 
 <img src="out_path/contrasted_harvesters.jpg" width="200"/>
 <img src="out_path/cropped_harvesters.jpg" width="200"/>
@@ -55,7 +61,7 @@ Here images on the left are automatically cropped and contrasted; images on the 
 
 <img src="out_path/contrasted_emir.jpg" width="200"/>
 <img src="out_path/cropped_emir.jpg" width="200"/>
-
+</p>
 
 
 ## Raw Aligned Results
