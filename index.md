@@ -82,20 +82,20 @@ Here images on the left are automatically cropped and contrasted; images on the 
 
 | Image         | Red shift   | Blue shift    |
 | :---          |    :---:   |          ---: |
-| Cathedral     | (7, 0)       | (-1, 1)   |
-| Monastery     | (6, 1)        | (6, 0)      |
-| Tobolsk       | (4, 1)        | (-3, -2)      |
-| church        |  (33, -7)       | (-25, 0)      |
-| emir          | (57, 17)        | (-49, -24)      |
-| harvesters    | (65, -3)        | (-60, -16)      |
-| icon          | (48, 5)        | (-40. -17)      |
-| lady          | (63, 3)        | (-53, -8)      |
-| melons        | (96, 3)        | (-82, -8)      |
-| onion church  | (57, 10)        | (-51, -26)      |
-| sculpture     | (107, -16)        | (-33, 11)      |
-| self portrait | (98, 8)        | (-78, -28)      |
-| 3 generations | (58, -1)        | (-54, -11)      |
-| train         | (43, 27)        | (-43, -5)      |
+| Cathedral     | 7, 0     | -1, 1   |
+| Monastery     | 6, 1       | 6, 0      |
+| Tobolsk       | 4, 1        | -3, -2      |
+| church        |  33, -7      | -25, 0      |
+| emir          | 57, 17        | -49, -24      |
+| harvesters    | 65, -3        | -60, -16      |
+| icon          | 48, 5       | -40. -17      |
+| lady          | 63, 3        | -53, -8      |
+| melons        | 96, 3        | -82, -8      |
+| onion church  | 57, 10        | -51, -26      |
+| sculpture     | 107, -16        | -33, 11      |
+| self portrait | 98, 8        | -78, -28      |
+| 3 generations | 58, -1        | -54, -11      |
+| train         | 43, 27        | -43, -5      |
 
 
 ## Additional images of my choice
