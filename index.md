@@ -79,8 +79,9 @@ Here images on the left are automatically cropped and contrasted; images on the 
 
 
 ## Offsets Table
+
 | Image         | Red shift   | Blue shift    |
-| :---          |    :----:   |          ---: |
+| :---          |    :---:   |          ---: |
 | Cathedral     | (7, 0)       | (-1, 1)   |
 | Monastery     | (6, 1)        | (6, 0)      |
 | Tobolsk       | (4, 1)        | (-3, -2)      |
