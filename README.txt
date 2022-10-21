@@ -1,6 +1,5 @@
 Yizhou Chi 
-SID: 3034867746
-email: chieftain@berkeley.edu
+
 Project Images of the Russian Empire
 
 main.py [commands]
